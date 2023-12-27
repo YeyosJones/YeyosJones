@@ -4,7 +4,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>  
-<p align="center"><a href="[https://arjuncvinod.github.io](https://github.com/YeyosJones)">Portfolio↗️</a></p>
+<p align="center"><a href="[https://github.com/YeyosJones)">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
@@ -27,8 +27,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-## <img src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif](https://arjuncvinod.github.io](https://github.com/YeyosJones)" width=50px>Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/arjun.c.vinod](https://www.instagram.com/diegogutierrezbautista/)) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-c-vinod](https://www.linkedin.com/in/diego-gutierrez-bautista/))
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/wXPEmYjn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjuncvinod.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun.c.vinod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-c-vinod) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/acvinodvzr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuncvinod7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arjuncvinod3793) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arjun-c-vinod) 
 
 
 
