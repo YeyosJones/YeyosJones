@@ -19,7 +19,7 @@
 
  📫 Reach out to me: **ingdiego1999@gmail.com**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1LFZr-ynolJ60646yVFCMGKQ5qwwg45xj/viewhttps://drive.google.com/file/d/1PWughxuu6TcxKhKAvWj3QfPMGfGl1dc-/view)
+ ✍ You can find my resume [here](https://drive.google.com/file/d/1LFZr-ynolJ60646yVFCMGKQ5qwwg45xj/view)
 
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
